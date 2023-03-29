@@ -37,7 +37,7 @@ De estas preguntas, concluímos que deseaban un Top, una lista completa de todos
 Por lo que construímos 3 historias de usuario, con sus respectivos criterios de aceptación y definición de terminado.
 Se espera que esta página pueda ayudarlos a conocer los pokémon para sacarle el mayor provecho al juego, y también pueda orientar a los jugadores novatos que apenas conocen a sus pokémon.
 
-El diseño visual fue inspirado de la página oficial de [PokémonGO](https://pokemongolive.com/) ,usamos tonos oscuros de azul y tonos claros de verde para el contraste, también se usó el mismo fondo para la pokedex y para acentuar algunos toques de color, usamos el tono amarillo de Pikachu.
+El diseño visual fue inspirado de la página oficial de [PokémonGO](https://pokemongolive.com/), usamos tonos oscuros de azul y tonos claros de verde para el contraste, también se usó el mismo fondo para la pokedex y para acentuar algunos toques de color, usamos el tono amarillo de Pikachu.
 Varios elementos en este proyecto fueron diseñados en Photoshop, como el título del proyecto, fondo del modal, botón de pokebola, etc.
 La página es responsive para PC, tablet y celular.
 
@@ -57,7 +57,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 * Prototipo de baja fidelidad: 
 
-<details><summary>Aquí</summary><p>
+  - <details><summary>Aquí</summary><p>
 
   ![prototipo](/src/img/prototipo.jpg)
 </p></details>
@@ -65,7 +65,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 * Prototipo de alta fidelidad: 
 
-https://scene.zeplin.io/project/6421b04ed5549922e109d3e6 
+  - https://scene.zeplin.io/project/6421b04ed5549922e109d3e6 
 
 ## 5. Problemas detectados en test de usabilidad
 
