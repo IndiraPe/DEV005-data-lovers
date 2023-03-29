@@ -57,11 +57,8 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 * Prototipo de baja fidelidad: 
 
-  - <details><summary>Aquí</summary><p>
-
+  - Aquí
   ![prototipo](/src/img/prototipo.jpg)
-</p></details>
-
 
 * Prototipo de alta fidelidad: 
 
