@@ -2,7 +2,7 @@ import {buscar, filtrarRegion, filtrarOrden, filtrarTipo, filtrarRareza, filtrar
 //import dataPkmn from './data/pokemon/pokemon.js';
 //const arrJson=[];
 
-fetch("/src/data/pokemon/pokemon.json", { mode: "no-cors" })
+fetch("./data/pokemon/pokemon.json", { mode: "no-cors" })
   .then((res) => res.json())
   .then((data) => {
     const arrPkmn = data.pokemon
