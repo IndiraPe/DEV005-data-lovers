@@ -55,14 +55,17 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 ## 4. Prototipos de diseño
 
-Prototipo de baja fidelidad: <details><summary>Aquí</summary><p>
+* Prototipo de baja fidelidad: 
+
+<details><summary>Aquí</summary><p>
 
   ![prototipo](/src/img/prototipo.jpg)
-  
 </p></details>
 
 
-Prototipo de alta fidelidad: https://scene.zeplin.io/project/6421b04ed5549922e109d3e6 
+* Prototipo de alta fidelidad: 
+
+https://scene.zeplin.io/project/6421b04ed5549922e109d3e6 
 
 ## 5. Problemas detectados en test de usabilidad
 
