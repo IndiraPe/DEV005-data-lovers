@@ -75,7 +75,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 ### HTML
 
-- [ ] **Uso de HTML semántico**
+- [:heavy_check_mark:] **Uso de HTML semántico**
 
   <details><summary>Links</summary><p>
 
@@ -85,7 +85,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 ### CSS
 
-- [ ] **Uso de selectores de CSS**
+- [:heavy_check_mark:] **Uso de selectores de CSS**
 
   <details><summary>Links</summary><p>
 
@@ -93,7 +93,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [CSS Selectors - MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)
 </p></details>
 
-- [ ] **Modelo de caja (box model): borde, margen, padding**
+- [:heavy_check_mark:] **Modelo de caja (box model): borde, margen, padding**
 
   <details><summary>Links</summary><p>
 
@@ -104,7 +104,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [display - CSS Tricks](https://css-tricks.com/almanac/properties/d/display/)
 </p></details>
 
-- [ ] **Uso de flexbox en CSS**
+- [:heavy_check_mark:] **Uso de flexbox en CSS**
 
   <details><summary>Links</summary><p>
 
@@ -115,7 +115,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 ### Web APIs
 
-- [ ] **Uso de selectores del DOM**
+- [:heavy_check_mark:] **Uso de selectores del DOM**
 
   <details><summary>Links</summary><p>
 
@@ -124,7 +124,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [Localizando elementos DOM usando selectores - MDN](https://developer.mozilla.org/es/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
 </p></details>
 
-- [ ] **Manejo de eventos del DOM (listeners, propagación, delegación)**
+- [:heavy_check_mark:] **Manejo de eventos del DOM (listeners, propagación, delegación)**
 
   <details><summary>Links</summary><p>
 
@@ -134,7 +134,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [El objeto Event](https://developer.mozilla.org/es/docs/Web/API/Event)
 </p></details>
 
-- [ ] **Manipulación dinámica del DOM**
+- [:heavy_check_mark:] **Manipulación dinámica del DOM**
 
   <details><summary>Links</summary><p>
 
@@ -148,9 +148,9 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
 
 ### JavaScript
 
-- [ ] **Diferenciar entre tipos de datos primitivos y no primitivos**
+- [:heavy_check_mark:] **Diferenciar entre tipos de datos primitivos y no primitivos**
 
-- [ ] **Arrays (arreglos)**
+- [:heavy_check_mark:] **Arrays (arreglos)**
 
   <details><summary>Links</summary><p>
 
@@ -163,14 +163,14 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [Array.prototype.reduce() - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 </p></details>
 
-- [ ] **Objetos (key, value)**
+- [:heavy_check_mark:] **Objetos (key, value)**
 
   <details><summary>Links</summary><p>
 
   * [Objetos en JavaScript](https://curriculum.laboratoria.la/es/topics/javascript/05-objects/01-objects)
 </p></details>
 
-- [ ] **Variables (declaración, asignación, ámbito)**
+- [:heavy_check_mark:] **Variables (declaración, asignación, ámbito)**
 
   <details><summary>Links</summary><p>
 
@@ -178,7 +178,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [Variables](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/02-variables)
 </p></details>
 
-- [ ] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
+- [:heavy_check_mark:] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
 
   <details><summary>Links</summary><p>
 
@@ -186,7 +186,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [Tomando decisiones en tu código — condicionales - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals)
 </p></details>
 
-- [ ] **Uso de bucles/ciclos (while, for, for..of)**
+- [:heavy_check_mark:] **Uso de bucles/ciclos (while, for, for..of)**
 
   <details><summary>Links</summary><p>
 
@@ -194,7 +194,7 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [Bucles e iteración - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 </p></details>
 
-- [ ] **Funciones (params, args, return)**
+- [:heavy_check_mark:] **Funciones (params, args, return)**
 
   <details><summary>Links</summary><p>
 
@@ -204,14 +204,14 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [Funciones — bloques de código reutilizables - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Functions)
 </p></details>
 
-- [ ] **Pruebas unitarias (unit tests)**
+- [:heavy_check_mark:] **Pruebas unitarias (unit tests)**
 
   <details><summary>Links</summary><p>
 
   * [Empezando con Jest - Documentación oficial](https://jestjs.io/docs/es-ES/getting-started)
 </p></details>
 
-- [ ] **Módulos de ECMAScript (ES Modules)**
+- [:heavy_check_mark:] **Módulos de ECMAScript (ES Modules)**
 
   <details><summary>Links</summary><p>
 
@@ -219,44 +219,44 @@ Fue testeado al 100% de sus líneas, y probado con usuarios, para saber si habí
   * [export - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/export)
 </p></details>
 
-- [ ] **Uso de linter (ESLINT)**
+- [:heavy_check_mark:] **Uso de linter (ESLINT)**
 
-- [ ] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
+- [:heavy_check_mark:] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
 
-- [ ] **Diferenciar entre expresiones (expressions) y sentencias (statements)**
+- [:heavy_check_mark:] **Diferenciar entre expresiones (expressions) y sentencias (statements)**
 
 ### Control de Versiones (Git y GitHub)
 
-- [ ] **Git: Instalación y configuración**
+- [:heavy_check_mark:] **Git: Instalación y configuración**
 
-- [ ] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
+- [:heavy_check_mark:] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
 
-- [ ] **Git: Integración de cambios entre ramas (branch, checkout, fetch, merge, reset, rebase, tag)**
+- [:heavy_check_mark:] **Git: Integración de cambios entre ramas (branch, checkout, fetch, merge, reset, rebase, tag)**
 
-- [ ] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
+- [:heavy_check_mark:] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
-- [ ] **GitHub: Despliegue con GitHub Pages**
+- [:heavy_check_mark:] **GitHub: Despliegue con GitHub Pages**
 
   <details><summary>Links</summary><p>
 
   * [Sitio oficial de GitHub Pages](https://pages.github.com/)
 </p></details>
 
-- [ ] **GitHub: Colaboración en Github (branches | forks | pull requests | code review | tags)**
+- [:heavy_check_mark:] **GitHub: Colaboración en Github (branches | forks | pull requests | code review | tags)**
 
 ### Centrado en el usuario
 
-- [ ] **Diseñar y desarrollar un producto o servicio poniendo a las usuarias en el centro**
+- [:heavy_check_mark:] **Diseñar y desarrollar un producto o servicio poniendo a las usuarias en el centro**
 
 ### Diseño de producto
 
-- [ ] **Crear prototipos de alta fidelidad que incluyan interacciones**
+- [:heavy_check_mark:] **Crear prototipos de alta fidelidad que incluyan interacciones**
 
-- [ ] **Seguir los principios básicos de diseño visual**
+- [:heavy_check_mark:] **Seguir los principios básicos de diseño visual**
 
 ### Investigación
 
-- [ ] **Planear y ejecutar testeos de usabilidad de prototipos en distintos niveles de fidelidad**
+- [:heavy_check_mark:] **Planear y ejecutar testeos de usabilidad de prototipos en distintos niveles de fidelidad**
 
   <details><summary>Links</summary><p>
 
